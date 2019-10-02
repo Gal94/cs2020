@@ -1,0 +1,30 @@
+.modules {
+  color: #0F9D58;
+  width: 50%;
+  margin: 0 auto;
+
+  .module-text{
+    font-weight: 500;
+    font-size: 14px;
+
+    @media screen and (max-width: 1024px) and (max-height: 1366px){
+      font-size:14px;
+      margin-bottom: 5%;
+    }
+
+    @media screen and (max-width: 768px) and (max-height: 1024px){
+      font-size: 13px;
+    }
+
+    @media screen and (max-width: 1024px) and (max-height: 1366px){
+      font-size: 11px;
+    }
+  }
+
+  .modules-display {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+  }
+}
