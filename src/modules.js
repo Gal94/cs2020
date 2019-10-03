@@ -298,7 +298,7 @@ export const generalModules =[
     },
     {
         id: 19,
-        name: 'נשים במקרא בראיה פמניסטית-סוציולוגית',
+        name: 'נשים במקרא',
         link: 'https://mega.nz/#F!lpYDEIIb!SJm-yvfiEhzwACudcBtETQ'
     },
 ];
