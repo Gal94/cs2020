@@ -16,7 +16,7 @@ function App() {
       <Header/>
 
         <Switch>
-            <Route exact path='/' component={HomePage}/>
+            <Route path='/' component={HomePage}/>
             <Route exact path='/first-year' render={() =><Modules modules={years[0]}/>}/>
             <Route exact path='/second-year' render={() =><Modules modules={years[1]}/>}/>
             <Route exact path='/third-year' render={() =><Modules modules={years[2]}/>}/>
