@@ -1,6 +1,6 @@
 .homepage {
   width: 80%;
-  height: 90vh;
+  height: 100%;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -29,14 +29,30 @@
   .head-desc {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 
+    .wrap {
+      width: 50%;
+
+    }
+    .top {
+      margin-bottom: 30px
+    }
 
     .text {
       width: 70%;
     }
 
     @media screen and (max-width: 840px) {
-      display:block;
+     display:block;
+
+      .wrap {
+        width: 90%;
+
+        .text {
+          width: 100%;
+        }
+      }
     }
   }
 
