@@ -14,7 +14,6 @@ function App() {
       <div className="App">
           <div className='content'>
       <Header/>
-
         <Switch>
             <Route exact path='/first-year' render={() =><Modules modules={years[0]}/>}/>
             <Route exact path='/second-year' render={() =><Modules modules={years[1]}/>}/>
@@ -23,7 +22,7 @@ function App() {
             <Route exact path='/general-modules' render={() =><Modules modules={years[4]}/>}/>
             <Route path='/' component={HomePage}/>
         </Switch>
-          </div>
+        </div>
           {/*<Footer/>*/}
       </div>
   );

@@ -15,11 +15,14 @@ const getWidth = () => {
 const Header = () => (
     <div className='header'>
         <div className='burger-icon' onClick={()=> {
-            let x = document.querySelector(".my-links");
-                if (x.style.display === "block") {
-                    x.style.display = "none";
+            let links = document.querySelector(".my-links");
+            let head = document.querySelector(".header");
+                if (links.style.display === "block") {
+                    links.style.display = "none";
+                    head.style.marginBottom = "3rem"
                 } else {
-                    x.style.display = "block";
+                    links.style.display = "block";
+                    head.style.marginBottom = "200px"
                 }
         }}>
             <i className="fas fa-bars fa-2x burger"></i>
