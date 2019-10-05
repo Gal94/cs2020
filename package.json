@@ -2,7 +2,7 @@
   "name": "cs20",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gal94.github.io/cs2020/",
+  "homepage": "./",
   "dependencies": {
     "deploy": "^1.0.3",
     "gh-pages": "^2.1.1",
@@ -14,7 +14,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
