@@ -301,4 +301,9 @@ export const generalModules =[
         name: 'נשים במקרא',
         link: 'https://mega.nz/#F!lpYDEIIb!SJm-yvfiEhzwACudcBtETQ'
     },
+    {
+        id: 20,
+        name: 'כלכלה גלובלית',
+        link: 'https://mega.nz/#F!doRDSAgb!W0GjoZ91wqnjJidnQxhrZg'
+    },
 ];
