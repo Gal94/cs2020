@@ -14,18 +14,31 @@ const getWidth = () => {
 
 const Header = () => (
     <div className='header'>
-        <div className='burger-icon' onClick={()=> {
-            let links = document.querySelector(".my-links");
-            let head = document.querySelector(".header");
+        <div className='wide'>
+            <div className='burger-icon' onClick={()=> {
+                let links = document.querySelector(".my-links");
+                let wideDiv = document.querySelector(".wide");
                 if (links.style.display === "block") {
                     links.style.display = "none";
-                    head.style.marginBottom = "3rem"
+                    wideDiv.style.marginBottom = "3rem";
+                    wideDiv.style.height = "70px";
                 } else {
                     links.style.display = "block";
-                    head.style.marginBottom = "200px"
+                    wideDiv.style.marginBottom = "0";
+                    wideDiv.style.height = "50px";
                 }
-        }}>
-            <i className="fas fa-bars fa-2x burger"></i>
+            }}>
+                <i className="fas fa-bars fa-2x burger"></i>
+            </div>
+
+            <div className='options'>
+                <Link to='/' className='option'><i className="fas fa-home"></i></Link>
+                <Link to='/first-year' className='option'>שנה א'</Link>
+                <Link to='/second-year' className='option'>שנה ב'</Link>
+                <Link to='/third-year' className='option'>שנה ג'</Link>
+                <Link to='/optional-modules' className='option'>קורסי בחירה</Link>
+                <Link to='/general-modules' className='option'>קורסי תשתית</Link>
+            </div>
         </div>
 
         <div className='my-links'>
@@ -35,18 +48,6 @@ const Header = () => (
             <div className='ham-div'><Link to='/third-year' className='ham-option'>שנה ג'</Link></div>
             <div className='ham-div'><Link to='/optional-modules' className='ham-option'>קורסי בחירה</Link></div>
             <div className='ham-div'><Link to='/general-modules' className='ham-option'>קורסי תשתית</Link></div>
-        </div>
-
-
-
-        <div className='options'>
-            <Link to='/' className='option'><i className="fas fa-home"></i></Link>
-            <Link to='/first-year' className='option'>שנה א'</Link>
-            <Link to='/second-year' className='option'>שנה ב'</Link>
-            <Link to='/third-year' className='option'>שנה ג'</Link>
-            <Link to='/optional-modules' className='option'>קורסי בחירה</Link>
-            <Link to='/general-modules' className='option'>קורסי תשתית</Link>
-
         </div>
     </div>
 );

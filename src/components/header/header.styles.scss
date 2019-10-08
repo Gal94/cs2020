@@ -1,37 +1,11 @@
-.header {
+.wide {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin-bottom: 3rem;
   height: 70px;
   background-color: #4285F4;
-  opacity: 0.9;
 
-  .my-links {
-    display: none;
-    background-color: #4285F4;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-
-
-
-    .ham-div {
-      margin-top: 10px;
-      margin-right: 45px;
-
-
-      .ham-option {
-        width: 20%;
-        color: white;
-        transition: 0.5s;
-
-        &:hover {
-          color: #F4B400;
-        }
-      }
-    }
-  }
 
     .burger-icon {
       display: none;
@@ -101,3 +75,28 @@
     }
   }
   }
+
+.my-links {
+  display: none;
+  background-color: #4285F4;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 1rem;
+
+  .ham-div {
+    margin-top: 10px;
+    margin-right: 45px;
+
+
+    .ham-option {
+      width: 20%;
+      color: white;
+      transition: 0.5s;
+
+      &:hover {
+        color: #F4B400;
+      }
+    }
+  }
+}
