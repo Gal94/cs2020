@@ -2,15 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom'
 import './header.styles.scss';
 
-const getWidth = () => {
-    return Math.max(
-        document.body.scrollWidth,
-        document.documentElement.scrollWidth,
-        document.body.offsetWidth,
-        document.documentElement.offsetWidth,
-        document.documentElement.clientWidth
-    );
-};
 
 const Header = () => (
     <div className='header'>
@@ -25,7 +16,7 @@ const Header = () => (
                 } else {
                     links.style.display = "block";
                     wideDiv.style.marginBottom = "0";
-                    wideDiv.style.height = "50px";
+                    wideDiv.style.height = "55px";
                 }
             }}>
                 <i className="fas fa-bars fa-2x burger"></i>
@@ -51,5 +42,4 @@ const Header = () => (
         </div>
     </div>
 );
-//add logo link at the start
 export default Header;
