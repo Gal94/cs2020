@@ -8,7 +8,7 @@ Start off by downloading/cloning the cs20 repository.
 
 In order to move on to the next steps you will need to have yarn installed.
 
-After installing yarn, navigate through the command line into the cs20 folder you've just downloaded/cloned.
+After installing yarn, navigate through the command line into the cs20 folder that you have just downloaded/cloned.
 
 In the command line run the command "yarn install" - the command will install all the packages that are essential for the application in order for it to run.
 
