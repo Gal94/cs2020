@@ -6,19 +6,11 @@ import './header.styles.scss';
 const Header = () => (
     <div className='header'>
         <div className='wide'>
-            <div className='burger-icon' onClick={()=> {
-                let links = document.querySelector(".my-links");
-                let wideDiv = document.querySelector(".wide");
-                if (links.style.display === "block") {
-                    links.style.display = "none";
-                    wideDiv.style.marginBottom = "3rem";
-                    wideDiv.style.height = "70px";
-                } else {
-                    links.style.display = "block";
-                    wideDiv.style.marginBottom = "0";
-                    wideDiv.style.height = "55px";
-                }
-            }}>
+            <div className='burger-icon' onClick={() => {
+                document.querySelector(".my-links").classList.toggle('show');
+                document.querySelector(".wide").classList.toggle('short');
+            }
+            }>
                 <i className="fas fa-bars fa-2x burger"></i>
             </div>
 

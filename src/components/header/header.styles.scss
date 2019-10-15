@@ -100,3 +100,20 @@
     }
   }
 }
+
+.short {
+  margin-bottom: 0;
+  height: 55px;
+
+  @media screen and (min-width: 561px) {
+    margin-bottom: 3rem;
+    height: 70px;
+  }
+}
+.show {
+  display: block;
+
+  @media screen and (min-width: 561px) {
+    display:none;
+  }
+}

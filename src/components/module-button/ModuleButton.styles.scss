@@ -22,13 +22,21 @@
     margin: 2%;
   }
 
+  @media screen and (max-width: 768px){
+    width: 130px;
+    height: 67px;
+    font-size: 12px;
+    margin: 1%;
+  }
+
   //for Galaxy S5 and smaller width sizes
   @media screen and (max-width: 410px){
-    width: 110px;
+    width: 105px;
     height: 60px;
     font-size: 10px;
     margin: 1%;
   }
+
 
   &:hover {
     background-color: #DB4437;

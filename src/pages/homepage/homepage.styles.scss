@@ -8,6 +8,7 @@
   overflow: hidden;
 
 
+
   .text {
     width:30%;
     line-height: 1.7;
@@ -15,6 +16,11 @@
     font-size: 16px;
     font-weight: 500;
     margin-top: 5px;
+
+    -moz-user-select: text;
+    -khtml-user-select: text;
+    -webkit-user-select: text;
+
 
     .mail {
       font-size: 14px;
