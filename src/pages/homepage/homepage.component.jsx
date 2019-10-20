@@ -11,11 +11,11 @@ const HomePage = () => {
                 <p className='text'>
                     ברוכים הבאים לcs20. אתר שמטרתו לעזור לסטודנטים למדעי המחשב לעבור את התואר בהצלחה.<br/>
                     לרשותכם לינק לתיקייה הראשית של הדרייב ולקבצי האתר במידה ותרצו להוריד את הדרייב או להריץ את האתר בצורה לוקלאית.
-                    <br/><span style= {{fontSize: 14 + 'px'}}>*בימים הקרובים יעלה קישור לגוגל דרייב.</span>
                 </p>
                 <div className='home-links'>
-                    <ModuleButton key='1' homeButton name={'קישור לדרייב'} link={'https://mega.nz/#F!0xoDQa4C!YExO6_uc7KhhO9IivYi8Fw'}/>
-                    <ModuleButton key='2' homeButton name={'קבצי האתר'} link={'https://github.com/Gal94/cs2020'}/>
+                    <ModuleButton key='1' homeButton name={'Google drive'} link={'https://drive.google.com/drive/folders/1Mmh1MW_zwNyqhNDB1gtkeklA4w_kHV5V?usp=sharing'}/>
+                    <ModuleButton key='2' homeButton name={'Mega drive'} link={'https://mega.nz/#F!0xoDQa4C!YExO6_uc7KhhO9IivYi8Fw'}/>
+                    <ModuleButton key='3' homeButton name={'קבצי האתר'} link={'https://github.com/Gal94/cs2020'}/>
                 </div>
 
             </div>

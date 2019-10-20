@@ -38,15 +38,17 @@
     flex-wrap: wrap;
 
     .wrap {
-      width: 50%;
+      width: 40%;
+      margin-left: 10%;
 
       .home-links{
         display: flex;
 
 
         .home-link{
+          text-transform: initial;
           height: 50px;
-          width: 70px;
+          width: 120px;
           font-size: 14px;
           margin-left: 20px;
           margin-right: 0;

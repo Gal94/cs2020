@@ -2,47 +2,47 @@ export const firstYearModules = [
     {
         id: 1,
         name: 'אינפי 1',
-        link: 'https://mega.nz/#F!o9RxFQwA!8rIZ9PZQ1Xygd9QmrvJBbw'
+        link: 'https://drive.google.com/open?id=1XvTl7fyfYOFRuWyGsF6RXyaEcVxYC2gj'
     },
     {
         id: 2,
         name: 'אלגברה לינארית',
-        link: 'https://mega.nz/#F!d8IVhAyQ!hE-87pRO_kWu4MTdwvTuGQ'
+        link: 'https://drive.google.com/open?id=1_0fGpP9Qm5OuaDyFeDwbkvyossBZ7dBW'
     },
     {
         id: 3,
         name: 'מתמטיקה בדידה',
-        link: 'https://mega.nz/#F!Y9ZHjYCJ!BhNpDPdKMnJMlP3yodRIwA'
+        link: 'https://drive.google.com/open?id=13dRkrAF7hIYI6Ssn-B3lf-A6eJI1POKA'
     },
     {
         id: 4,
         name: 'מבוא למדעי המחשב',
-        link: 'https://mega.nz/#F!U1BlyQbR!GdkazmseuOcjmNyqHDFHCA'
+        link: 'https://drive.google.com/open?id=1u4H8jGaah9eMizSWEM02b8Z0fDmJ56SM'
     },
     {
         id: 5,
         name: 'אינפי 2',
-        link: 'https://mega.nz/#F!x8Bx2I7Y!9cV0rvRo8wfn0d2dVxcb0A'
+        link: 'https://drive.google.com/open?id=1Cpa433vlHiR-pw56cfnyQfSfAjF1rVDO'
     },
     {
         id: 6,
         name: 'מבני נתונים',
-        link: 'https://mega.nz/#F!1pJBEIaR!N9iLpXZyZfzGAmyiNtET2g'
+        link: 'https://drive.google.com/open?id=1Q_QDFzNhlY4A6Rw5WhehJPgskDQGzDY_'
     },
     {
         id: 7,
         name: 'סדנה מתקדמת בתכנות',
-        link: 'https://mega.nz/#F!E0BT1AAR!I1o6kjUaiE_CG2CHOQ4rJg'
+        link: 'https://drive.google.com/open?id=10uMRq_G3tvrgrVm1M2otb_0gftFF-NLt'
     },
     {
         id: 8,
         name: 'מיתוג',
-        link: 'https://mega.nz/#F!clIRharb!NsVq2eRxm1nndYXe5d3rVQ'
+        link: 'https://drive.google.com/open?id=1AYxyTIPWe7maSdhxiuEH8baxz1uNHM5W'
     },
     {
         id: 9,
         name: 'הסתברות',
-        link: 'https://mega.nz/#F!BsAhWKbY!qH4Ei99k9rWVA6GX1VR7mA'
+        link: 'https://drive.google.com/open?id=1KmDDmRGieWuK7P5r-8O-yuZFOpga3coI'
     },
 ];
 
@@ -50,52 +50,52 @@ export const secondYearModules = [
     {
         id: 1,
         name: 'בסיסי נתונים',
-        link: 'https://mega.nz/#F!E4I3ECwa!214Tg2HyHGetqL-t9v8hig'
+        link: 'https://drive.google.com/open?id=1u0UCnjTqJsNDRjMi0qkn58BYbFavcvTW'
     },
     {
         id: 2,
         name: 'אסמבלי ושפת סף',
-        link: 'https://mega.nz/#F!J8QnxKqZ!cC6lQ9GUHZmH46CXlOBUEw'
+        link: 'https://drive.google.com/open?id=1P6C2O_LQNWByAEKM3WzD9XmjAz2MfMZM'
     },
     {
         id: 3,
         name: 'הנדסת תוכנה',
-        link: 'https://mega.nz/#F!hwQhXQbS!VZorn7kTOAhs3KlqbyK0uw'
+        link: 'https://drive.google.com/open?id=1QsF1mHj3dyo-8o1vlQ8mxJTjmwwPWLij'
     },
     {
         id: 4,
         name: 'תורת הגרפים',
-        link: 'https://mega.nz/#F!V8ZxjCoD!mEDs81HT8D16yCHJ5AVHAQ'
+        link: 'https://drive.google.com/open?id=1HQIEMlGw84v3J5TMOGH_Khk-EC-qJHlU'
     },
     {
         id: 5,
         name: 'תכנות מונחה עצמים',
-        link: 'https://mega.nz/#F!llJT1IoD!dV8CwRGgFE5lfD3kB-CDTQ'
+        link: 'https://drive.google.com/open?id=1BnLqgVxcuLsMZ6ed58Kd3uwSfIUNuDiQ'
     },
     {
         id: 6,
         name: 'רשתות תקשורת',
-        link: 'https://mega.nz/#F!dgZHFA4Q!6OkN9QWfN3zMVxdL-mGP5Q'
+        link: 'https://drive.google.com/open?id=1KQnZlrEqTufpCNfnZFeearUlLWO38xqG'
     },
     {
         id: 7,
         name: 'מערכות הפעלה',
-        link: 'https://mega.nz/#F!A9A3XSwa!BUrzTj0QZW3YTy2TFq3aSQ'
+        link: 'https://drive.google.com/open?id=1tcGdVDzpebMN1DiyA0ErkKQQZIuqjt6O'
     },
     {
         id: 8,
         name: 'ניתוח אלגוריתמים',
-        link: 'https://mega.nz/#F!p5YnwAZA!2oScWLwWScbP0Mb4bE5ffg'
+        link: 'https://drive.google.com/open?id=1ALlw5mMtl3jk3GKCRvElgGL5zKu4cICW'
     },
     {
         id: 9,
         name: 'אוטומטים',
-        link: 'https://mega.nz/#F!YhIzSYRR!NHGF7N4tU1MyVpFmXydkcw'
+        link: 'https://drive.google.com/open?id=1LL_9hHuJtTw25iOVtuytTTe1aDy4fgnT'
     },
     {
         id: 10,
         name: '*לוגיקה',
-        link: 'https://mega.nz/#F!YoQD1IbR!iXQm2pGDOgZ61jc4TI2Mog'
+        link: 'https://drive.google.com/open?id=1n05_lXOEZnck5-STJH5NUGyI9mk537JQ'
     },
 ];
 
@@ -103,27 +103,27 @@ export const thirdYearModules = [
     {
         id: 1,
         name: 'כלים מתמטיים',
-        link: 'https://mega.nz/#F!JtJzFQSK!euSLFyG4KEFG6-nwr2ImCg'
+        link: 'https://drive.google.com/open?id=1pcoSZhnmsaQnmuZPtvwSwmGKC8QhqimW'
     },
     {
         id: 2,
         name: 'חישוביות וסיבוכיות',
-        link: 'https://mega.nz/#F!otIHTYxJ!-cN4DhfytXljWJWq1CwtXw'
+        link: 'https://drive.google.com/open?id=1J4bAO6eaPa2N0pAwRqcn3BsfrCmDct6E'
     },
     {
         id: 3,
         name: 'קומפילציה',
-        link: 'https://mega.nz/#F!hsQTVCZA!Bm0PFXGKgCE1nBYtCoBALg'
+        link: 'https://drive.google.com/open?id=1YVJIokVOh6oixriVFqXkkMo2F3uuwvp5'
     },
     {
         id: 4,
         name: 'למידת מכונה - כרגע ריק',
-        link: ''
+        link: 'https://drive.google.com/open?id=1iuAbJ4BaIaRC1n0Z-X0-Ic3HKOM-cCsI'
     },
     {
         id: 5,
         name: '*תכנות לוגי',
-        link: 'https://mega.nz/#F!UwZBRKRT!fLDtyt0bHLdZ8d6UVLdhOQ'
+        link: 'https://drive.google.com/open?id=1mMcJu6Fg7j4IRxLIpVtuzpPn20Q9SRlu'
     },
 ];
 
@@ -131,77 +131,77 @@ export const optionalModules = [
     {
         id: 1,
         name: 'תכנות בסביבת אינטרנט',
-        link: 'https://mega.nz/#F!M9JzXCiC!J-6IUUsKUcFZYEFTJt88Lg'
+        link: 'https://drive.google.com/open?id=13-4LXcmrq5hJOxbVW6tVA9x3wkd0FVmb'
     },
     {
         id: 2,
         name: 'בניית יישומים מאובטחים',
-        link: 'https://mega.nz/#F!xlY1gQ6A!Sy5_5cY3NRVBIkWURlT5tQ'
+        link: 'https://drive.google.com/open?id=1wLdEAvtxG55ePvL2UDL-rNbO2w_69WqK'
     },
     {
         id: 3,
         name: 'אבטחת רשתות',
-        link: 'https://mega.nz/#F!EtZDXQoS!e2y5-pcSViyvT696FDCtlg'
+        link: 'https://drive.google.com/open?id=1mQ36mpAky1GoSS_rQXa5qjPYJ-aeEngR'
     },
     {
         id: 4,
         name: 'כריית נתונים',
-        link: 'https://mega.nz/#F!p9BjFSKK!WWshxgoFJXYIfXJqJVXxWA'
+        link: 'https://drive.google.com/open?id=1mUhEkebrKsmDLsrr7an9VDGXGD5tQo8Y'
     },
     {
         id: 5,
         name: 'java צד שרת',
-        link: 'https://mega.nz/#F!xwR3naBY!1sBD3Tm8PLxQcb1Q7nNHOg'
+        link: 'https://drive.google.com/open?id=1WEGGWMRVKxyUE8NeE2Aapx6DWmn72fEg'
     },
     {
         id: 6,
         name: 'C#',
-        link: 'https://mega.nz/#F!ppRHCI4J!1U-7GkleEn6e1w5LF7vxQQ'
+        link: 'https://drive.google.com/open?id=11vcZ2Ze77vOZ4SDdLHJD3-ocjBJw_OGl'
     },
     {
         id: 7,
         name: 'בדיקות תוכנה',
-        link: 'https://mega.nz/#F!EhYXEY6B!YYnPGPHAOrpjNEd6i9OK0Q'
+        link: 'https://drive.google.com/open?id=1bb1BMBV1BooazwASFL9SNVbRs7e_gA3X'
     },
     {
         id: 8,
         name: 'גרפיקה ממוחשבת',
-        link: 'https://mega.nz/#F!M1IRVQJI!2oWAW-EE2CFkg-9j-4gCpQ'
+        link: 'https://drive.google.com/open?id=1wtvBW8zMlVgYmIJNFxgTgEViq1WJM11B'
     },
     {
         id: 9,
         name: 'עיבוד שפה טבעית',
-        link: 'https://mega.nz/#F!VtQDASJI!4k_Rsy_pGBItsqBf8afyfw'
+        link: 'https://drive.google.com/open?id=1nh2l21MH8znX59DDN9vK8Q_GI7mxmsOn'
     },
     {
         id: 10,
         name: 'בינה מלאכותית',
-        link: 'https://mega.nz/#F!Z5ADwIjL!UncZAmOKKiWYIq-yK65ScQ'
+        link: 'https://drive.google.com/open?id=1YXTrDIAAUTTKNNt6UXj2dHTVQRK12J3W'
     },
     {
         id: 11,
         name: 'רובוטיקה',
-        link: 'https://mega.nz/#F!59AFWagT!ujJFHmeMc57tGp2ZL2YcPQ'
+        link: 'https://drive.google.com/open?id=19jLAaBPkXMEgI05iK7k7h4mLNTgHAXFj'
     },
     {
         id: 12,
         name: 'תבניות עיצוב',
-        link: 'https://mega.nz/#F!QsQnkKCL!2pyIXBXnVnNWsNmpLuy55Q'
+        link: 'https://drive.google.com/open?id=1bimPfbASF230Y4zdFsBzPTCeUexhlot9'
     },
     {
         id: 13,
         name: 'יסודות מערכות מידע',
-        link: 'https://mega.nz/#F!g0Ax2KgA!jqFr6uKMLWASXyS65Az1Pw'
+        link: 'https://drive.google.com/open?id=12zENNXThWl1Ne9YsJsvhqOCdRgt2OgNy'
     },
     {
         id: 14,
         name: 'GIS',
-        link: 'https://mega.nz/#F!BwYVQCiA!RioWAzzrSgRnO-3GGpEauw'
+        link: 'https://drive.google.com/open?id=1cn4AtjORKl6FeU5qyEJLTw_QbH-3b4JE'
     },
     {
         id: 15,
         name: 'פיתוח אפלקיציות אנדרואיד',
-        link: 'https://mega.nz/#F!dtAHlawY!v__CswfmsPTrEqDFYvGsZg'
+        link: 'https://drive.google.com/open?id=17YCxNWzSmO8wLibTZ-S_veF6fsWxcDO6'
     },
 ];
 
@@ -209,101 +209,101 @@ export const generalModules =[
     {
         id: 1,
         name: 'אתגרי מחשבה בפילוסופיה',
-        link: 'https://mega.nz/#F!chQRwA7B!vXiBHK1LS8kGUyLq2QBFVQ'
+        link: 'https://drive.google.com/open?id=1e06VkqA30eNmlZ9W7iTleo4IOhgNywEj'
     },
     {
         id: 2,
         name: 'אתיקה בעסקים',
-        link: 'https://mega.nz/#F!IoBlzCoI!Jor7k-Z_zBpQRdydQF1Tkw'
+        link: 'https://drive.google.com/open?id=1sRHe8LRjVkgcG-HNR4dY43PoxLINUg3u'
     },
     {
         id: 3,
         name: 'האדם בין מימוש לאחריות חברתית',
-        link: 'https://mega.nz/#F!8wY3gIxK!0OB6hK_YY_PMGoRbtEt_CQ'
+        link: 'https://drive.google.com/open?id=14pH-peCTq7WIgRxd21bQETm0yNVAqN8e'
     },
     {
         id: 4,
         name: 'הבעות פנים',
-        link: 'https://mega.nz/#F!g8JVmIwa!KUeX1CfPsQnqYnzRD7OwUQ'
+        link: 'https://drive.google.com/open?id=1xTU91zJhn-2CZTdMrArkF2pwAQgg3-Bb'
     },
     {
         id: 5,
         name: 'הגירה בעולם משתנה',
-        link: 'https://mega.nz/#F!E0IXXSDR!GjHykxtMKfZ6-EMBiLbiWA'
+        link: 'https://drive.google.com/open?id=1NGo257uX6ui1D_5Jm0S1BKBAoiyRlQ3R'
     },
     {
         id: 6,
         name: 'ידיעה ורגשות',
-        link: 'https://mega.nz/#F!xhZBVCCY!bTfg_JCKFBt5FzRwlLSOXg'
+        link: 'https://drive.google.com/open?id=1FcXgT5dM7IMU82SX_A_kzySqSvlly43K'
     },
     {
         id: 7,
         name: 'יסודות התורה והקבלה',
-        link: 'https://mega.nz/#F!gsBlnKbB!47UYjL2pON3Qq5U2vrWqzA'
+        link: 'https://drive.google.com/open?id=13END5tfgSVFENCyNyeYOzShqRXZpjH47'
     },
     {
         id: 8,
         name: 'יצירתן של מדינות המזרח התיכון',
-        link: 'https://mega.nz/#F!c8BTyQra!FPOeLEHPv9-7UnhkTeJXrA'
+        link: 'https://drive.google.com/open?id=1DHl-3EYMmB3d4Ahtd-38mR35Y2troRNK'
     },
     {
         id: 9,
         name: 'מבוא לביולוגיה מודרנית',
-        link: 'https://mega.nz/#F!VhJjyaIS!5csx1eL1Y7ap1o6b37dHgw'
+        link: 'https://drive.google.com/open?id=1xJUkfJMrh4ZufKm_7623mLovWwEhj9H2'
     },
     {
         id: 10,
         name: 'מבוא לקיימות',
-        link: 'https://mega.nz/#F!Z0YR3CKb!5WZJRH1ZMnEWecuH4VzMOA'
+        link: 'https://drive.google.com/open?id=1YKWMd8kP5nCoLWSpVqiT6epTKOq8oYm2'
     },
     {
         id: 11,
         name: 'מוסיקה של שנות ה-60',
-        link: 'https://mega.nz/#F!4tQBiYZY!_UXdqOo9x8U4Wtij5JPDxw'
+        link: 'https://drive.google.com/open?id=1sUHNs39gCLyWLVokOBfscUA9kN65U1R6'
     },
     {
         id: 12,
         name: 'סובלנות בחברה רב-תרבותית',
-        link: 'https://mega.nz/#F!tsZFTKhZ!HMKLJdWexdKFP6LiI-u0vA'
+        link: 'https://drive.google.com/open?id=16W_5vQLW_p784JByHFlzWlI6WqaaQWZT'
     },
     {
         id: 13,
         name: 'סוגיות נבחרות בפסיכולוגיה של המנהיגות',
-        link: 'https://mega.nz/#F!M4IX3aKS!TqIVZ9n9oSbHava7J1tzFA'
+        link: 'https://drive.google.com/open?id=1dB3Wfi417c_1b6TMdhe-ha9IxryKtwtC'
     },
     {
         id: 14,
         name: 'סוגיות פילוסופיות ביצירות ספרותיות',
-        link: 'https://mega.nz/#F!chQxFYoR!27Ieu5GaKL9xDX_AqcsH6w'
+        link: 'https://drive.google.com/open?id=1o7786fVXyD4TL5prnESEAm1INR4m1mYC'
     },
     {
         id: 15,
         name: 'פילוסופיה וקולנוע',
-        link: 'https://mega.nz/#F!ItQVgA4Q!YyYQxDZXSEObTQV-PEDsQA'
+        link: 'https://drive.google.com/open?id=1StpPkW1IHYm__lgH0OsNJOIw2v55jgut'
     },
     {
         id: 16,
         name: 'קהילות פוליטיקה עסקים באינטרנט',
-        link: 'https://mega.nz/#F!x5IHkSSA!Y_A9d8i-rGZzHesWmKHWbA'
+        link: 'https://drive.google.com/open?id=1Y4xPcO9LGee6pyat_hT1aM8MNkNXp05Q'
     },
     {
         id: 17,
         name: 'קמפיינים פוליטיים',
-        link: 'https://mega.nz/#F!ItYzWApI!DAx8rRylKZoM9hNludSB-w'
+        link: 'https://drive.google.com/open?id=1ZoSbnsrkjxQQ8ueVCuLK9wYE59E_F-06'
     },
     {
         id: 18,
         name: 'שידורי טלוויזיה בכבלים ובלווין',
-        link: 'https://mega.nz/#F!Q9AxlSAb!gmiivuqZsx7aVAAg47tSdQ'
+        link: 'https://drive.google.com/open?id=1mXPwYjP8JgWtrdNlt6XjKccrcTHpHZLX'
     },
     {
         id: 19,
         name: 'נשים במקרא',
-        link: 'https://mega.nz/#F!lpYDEIIb!SJm-yvfiEhzwACudcBtETQ'
+        link: 'https://drive.google.com/open?id=19RmIGOfkXwBwQ4byWhfYEJ_r_N1peaP-'
     },
     {
         id: 20,
         name: 'כלכלה גלובלית',
-        link: 'https://mega.nz/#F!doRDSAgb!W0GjoZ91wqnjJidnQxhrZg'
+        link: 'https://drive.google.com/open?id=10bAtx0RwGr1hJFwpxDmW_4OOeo6Mldj8'
     },
 ];
