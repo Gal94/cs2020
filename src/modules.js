@@ -203,6 +203,21 @@ export const optionalModules = [
         name: 'פיתוח אפלקיציות אנדרואיד',
         link: 'https://drive.google.com/open?id=17YCxNWzSmO8wLibTZ-S_veF6fsWxcDO6'
     },
+    {
+        id: 16,
+        name: 'הנדסה לאחור',
+        link: 'https://drive.google.com/open?id=1N8C-POUSeJoyfO4MDKFjfcOTw1Rf2kVJ'
+    },
+    {
+        id: 17,
+        name: 'אלגוריתמים במולטימדיה',
+        link: 'https://drive.google.com/open?id=1KWhszwzw2clYbWZYuaemqS77MH8V-9Zs'
+    },
+    {
+        id: 18,
+        name: 'מבוא לתורת ההצפנה',
+        link: 'https://drive.google.com/open?id=1KEmLICaKMJyAiJclMLcLFK_PbG4jcxbY'
+    }
 ];
 
 export const generalModules =[
@@ -305,5 +320,10 @@ export const generalModules =[
         id: 20,
         name: 'כלכלה גלובלית',
         link: 'https://drive.google.com/open?id=10bAtx0RwGr1hJFwpxDmW_4OOeo6Mldj8'
+    },
+    {
+        id: 21,
+        name: 'שואה וזיכרון',
+        link: 'https://drive.google.com/open?id=1sElaKn1vLo7tia3d4TSmQqt1bfD0h3W8'
     },
 ];
