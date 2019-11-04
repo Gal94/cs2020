@@ -1,7 +1,6 @@
 .module-button {
   width: 200px;
   height: 75px;
-  margin-top: 1%;
   letter-spacing: 0.3px;
   font-size: 14px;
   background-color: #fff;
@@ -11,8 +10,7 @@
   font-weight: bold;
   cursor: pointer;
   border-radius: 5px;
-  margin-left: 1%;
-  margin-right: 1%;
+  padding:0;
   transition: 1s ease all;
   text-align: center;
 
@@ -20,14 +18,12 @@
     width: 150px;
     height: 75px;
     font-size: 14px;
-    margin: 2%;
   }
 
   @media screen and (max-width: 768px){
     width: 130px;
     height: 67px;
     font-size: 12px;
-    margin: 1%;
   }
 
   //for Galaxy S5 and smaller width sizes
@@ -35,7 +31,6 @@
     width: 105px;
     height: 60px;
     font-size: 10px;
-    margin: 1%;
   }
 
 

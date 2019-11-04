@@ -1,8 +1,9 @@
 .modules {
   color: #0F9D58;
-  width: 50%;
-  height: 90vh;
-  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
 
   .module-text{
     font-weight: 500;
@@ -12,19 +13,24 @@
 
   .modules-display {
     display: flex;
+    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
-
+    padding-left: .5rem;
+    padding-right: .5rem;
+    max-width: 50rem;
+    &>*{
+      margin:.5rem;
+    }
   }
 
   @media screen and (max-width: 1750px){
-    width: 80%;
+    // width: 80%;
   }
 
   @media screen and (max-width: 1024px) and (max-height: 1366px){
 
-    width: 80%;
+    // width: 80%;
     .module-text {
       font-size: 14px;
       margin-bottom: 5%;
@@ -32,14 +38,14 @@
   }
 
   @media screen and (max-width: 768px) and (max-height: 1024px){
-    width: 80%;
+    // width: 80%;
     .module-text {
       font-size: 13px;
     }
   }
 
   @media screen and (max-width: 1024px) and (max-height: 1366px){
-    width: 80%;
+    // width: 80%;
     .module-text {
       font-size: 11px;
     }

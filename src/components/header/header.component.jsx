@@ -15,12 +15,17 @@ const Header = () => (
             </div>
 
             <div className='options'>
-                <Link to='/' className='option'><i className="fas fa-home"></i></Link>
-                <Link to='/first-year' className='option'>שנה א'</Link>
-                <Link to='/second-year' className='option'>שנה ב'</Link>
-                <Link to='/third-year' className='option'>שנה ג'</Link>
-                <Link to='/optional-modules' className='option'>קורסי בחירה</Link>
-                <Link to='/general-modules' className='option'>קורסי תשתית</Link>
+                <div class="home_logo">
+                    <Link to='/'><i className="fas fa-home"></i></Link>
+                </div>
+                <div class="links">
+                    <Link to='/first-year' className='option'>שנה א'</Link>
+                    <Link to='/second-year' className='option'>שנה ב'</Link>
+                    <Link to='/third-year' className='option'>שנה ג'</Link>
+                    <Link to='/optional-modules' className='option'>קורסי בחירה</Link>
+                    <Link to='/general-modules' className='option'>קורסי תשתית</Link>
+                </div>
+                <div class="dummy_div"></div>
             </div>
         </div>
 

@@ -1,17 +1,17 @@
 .wide {
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: space-between;
-  margin-bottom: 3rem;
-  height: 70px;
+  height: 4rem;
   background-color: #4285F4;
-
+  place-content: center;
 
     .burger-icon {
       display: none;
       cursor: pointer;
-      margin-right: 45px;
-      margin-top: 15px;
+      // margin-right: 45px;
+      // margin-top: 15px;
       border: 1px solid white;
       border-radius: 6px;
       width: 50px;
@@ -41,21 +41,34 @@
     }
 
     .options {
-      width: 40%;
       height: 100%;
+      width: 95%;
       display: flex;
-      margin-right: 1rem;
       align-items: center;
-
+      justify-content: space-between;
       @media screen and (max-width:561px){
         display: none;
       }
-
+      .links{
+        margin:auto;
+      }
+      $logo_size: 24px;
+      .dummy_div{
+        width: $logo_size;
+        height: $logo_size;
+      }
+      .home_logo{
+        a{
+          font-size: $logo_size;
+          color:white;
+        }
+      }
       .option {
         color: white;
         cursor: pointer;
         font-size: 18px;
-        margin: 1.5rem;
+        // margin: 1.5rem;
+        margin-left: 1rem;
         font-weight: 500;
         opacity: 1;
         transition: 0.5s;
