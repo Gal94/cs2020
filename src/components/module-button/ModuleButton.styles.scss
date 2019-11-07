@@ -1,0 +1,42 @@
+.module-button {
+  width: 200px;
+  height: 75px;
+  letter-spacing: 0.3px;
+  font-size: 14px;
+  background-color: #fff;
+  color: #DB4437;;
+  border: 1px solid #DB4437;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  padding:0;
+  transition: 1s ease all;
+  text-align: center;
+
+  @media screen and (max-width: 1024px) and (max-height: 1366px){
+    width: 150px;
+    height: 75px;
+    font-size: 14px;
+  }
+
+  @media screen and (max-width: 768px){
+    width: 130px;
+    height: 67px;
+    font-size: 12px;
+  }
+
+  //for Galaxy S5 and smaller width sizes
+  @media screen and (max-width: 410px){
+    width: 105px;
+    height: 60px;
+    font-size: 10px;
+  }
+
+
+  &:hover {
+    background-color: #DB4437;
+    color: white;
+    border: 1px solid white;
+  }
+}
