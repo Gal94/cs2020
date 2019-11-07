@@ -3,6 +3,9 @@
   height: 100%;
   margin: 0;
 }
+.content>:nth-child(2) {
+  padding-top: .5rem;
+}
 a {
   text-decoration: none;
   color: black;
