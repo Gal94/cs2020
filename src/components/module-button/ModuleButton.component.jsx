@@ -1,10 +1,10 @@
 import React from 'react';
-import './ModuleButton.styles.scss'
+import { Button } from "./ModuleButton.styles";
 
-const ModuleButton = ({name , link, homeButton, icon}) => (
-    <button className={`${homeButton ? 'home-link': ''} module-button`} onClick={()=> {
+const ModuleButton = ({name , link, ...props}) => (
+    <Button {...props} onClick={()=> {
         window.location.href = `${link}`;
-    }}>{name}  <span style={{marginRight: `0.2rem`}}>{icon}</span> </button>
+    }}>{name}</Button>
 );
 
 export default ModuleButton;

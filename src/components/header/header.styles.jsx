@@ -1,12 +1,31 @@
-.wide {
+import styled from 'styled-components';
+
+export const WideContainer = styled.div`
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   margin-bottom: 3rem;
   height: 70px;
   background-color: #4285F4;
+  
+    @media screen and (min-width:561px){
+    .ham-div{
+      display: none;
+      }
+    }
+    
+  & .short {
+    margin-bottom: 0;
+    height: 55px;
 
-    .burger-icon {
+    @media screen and (min-width: 561px) {
+        margin-bottom: 3rem;
+        height: 70px;
+    }
+  }
+`;
+
+export const BurgerIconContainer = styled.div`
       display: none;
       cursor: pointer;
       margin-right: 45px;
@@ -37,18 +56,14 @@
           color: #F4B400;
         }
       }
-    }
+`;
 
-    .options {
+export const OptionsContainer = styled.div`
       width: 40%;
       height: 100%;
       display: flex;
       margin-right: 1rem;
       align-items: center;
-
-      @media screen and (max-width:561px){
-        display: none;
-      }
 
       .option {
         color: white;
@@ -63,27 +78,34 @@
           color: #F4B400;
         }
       }
-    }
 
-  @media screen and (min-width:561px){
-    .ham-div{
-      display: none;
-    }
-    .options{
-      display: flex;
-    }
-  }
-  }
+      @media screen and (max-width:561px){
+        display: none;
+      }
+      
+      @media screen and (min-width:561px){
+        display: flex;
+        }
+`;
 
-.my-links {
+export const MyLinksContainer = styled.div`
   display: none;
   background-color: #4285F4;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
   margin-bottom: 1rem;
+  
+  & .show {
+  display: block;
 
-  .ham-div {
+  @media screen and (min-width: 561px) {
+    display:none;
+  }
+}
+`;
+
+export const HamDivContainer = styled.div`
     margin-top: 10px;
     margin-right: 45px;
 
@@ -97,22 +119,4 @@
         color: #F4B400;
       }
     }
-  }
-}
-
-.short {
-  margin-bottom: 0;
-  height: 55px;
-
-  @media screen and (min-width: 561px) {
-    margin-bottom: 3rem;
-    height: 70px;
-  }
-}
-.show {
-  display: block;
-
-  @media screen and (min-width: 561px) {
-    display:none;
-  }
-}
+`;

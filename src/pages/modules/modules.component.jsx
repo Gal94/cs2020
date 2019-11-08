@@ -1,20 +1,20 @@
 import React from 'react';
-import './modules.styles.scss';
+import {ModulesContainer, ModulesDisplayContainer, Text} from "./modules.styles";
 import ModuleButton from "../../components/module-button/ModuleButton.component";
 
 const Modules = ({modules}) => {
     return (
-        <div className='modules'>
+        <ModulesContainer>
             <h2>קורסים לבחירה:</h2>
-            <p className='module-text'>קורסים המסומנים בכוכבית יצאו מתכנית הלימודים נכון לשנת 2019</p>
-            <div className='modules-display'>
+            <Text>קורסים המסומנים בכוכבית יצאו מתכנית הלימודים נכון לשנת 2019</Text>
+            <ModulesDisplayContainer>
         {
             modules.map((module) => (
                 <ModuleButton key={module.id} {...module} />
             ))
         }
-            </div>
-        </div>
+            </ModulesDisplayContainer>
+        </ModulesContainer>
         );
 };
 
