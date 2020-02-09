@@ -248,81 +248,86 @@ export const generalModules =[
     },
     {
         id: 6,
+        name: 'היסטוריה של אפריקה בשחור לבן',
+        link: 'https://drive.google.com/open?id=1DltWhV9dpMGDWZtEy_BoPJAfdK7eftT-'
+    },
+    {
+        id: 7,
         name: 'ידיעה ורגשות',
         link: 'https://drive.google.com/open?id=1FcXgT5dM7IMU82SX_A_kzySqSvlly43K'
     },
     {
-        id: 7,
+        id: 8,
         name: 'יסודות התורה והקבלה',
         link: 'https://drive.google.com/open?id=13END5tfgSVFENCyNyeYOzShqRXZpjH47'
     },
     {
-        id: 8,
+        id: 9,
         name: 'יצירתן של מדינות המזרח התיכון',
         link: 'https://drive.google.com/open?id=1DHl-3EYMmB3d4Ahtd-38mR35Y2troRNK'
     },
     {
-        id: 9,
+        id: 10,
         name: 'מבוא לביולוגיה מודרנית',
         link: 'https://drive.google.com/open?id=1xJUkfJMrh4ZufKm_7623mLovWwEhj9H2'
     },
     {
-        id: 10,
+        id: 11,
         name: 'מבוא לקיימות',
         link: 'https://drive.google.com/open?id=1YKWMd8kP5nCoLWSpVqiT6epTKOq8oYm2'
     },
     {
-        id: 11,
+        id: 12,
         name: 'מוסיקה של שנות ה-60',
         link: 'https://drive.google.com/open?id=1sUHNs39gCLyWLVokOBfscUA9kN65U1R6'
     },
     {
-        id: 12,
+        id: 13,
         name: 'סובלנות בחברה רב-תרבותית',
         link: 'https://drive.google.com/open?id=16W_5vQLW_p784JByHFlzWlI6WqaaQWZT'
     },
     {
-        id: 13,
+        id: 14,
         name: 'סוגיות נבחרות בפסיכולוגיה של המנהיגות',
         link: 'https://drive.google.com/open?id=1dB3Wfi417c_1b6TMdhe-ha9IxryKtwtC'
     },
     {
-        id: 14,
+        id: 15,
         name: 'סוגיות פילוסופיות ביצירות ספרותיות',
         link: 'https://drive.google.com/open?id=1o7786fVXyD4TL5prnESEAm1INR4m1mYC'
     },
     {
-        id: 15,
+        id: 16,
         name: 'פילוסופיה וקולנוע',
         link: 'https://drive.google.com/open?id=1StpPkW1IHYm__lgH0OsNJOIw2v55jgut'
     },
     {
-        id: 16,
+        id: 17,
         name: 'קהילות פוליטיקה עסקים באינטרנט',
         link: 'https://drive.google.com/open?id=1Y4xPcO9LGee6pyat_hT1aM8MNkNXp05Q'
     },
     {
-        id: 17,
+        id: 18,
         name: 'קמפיינים פוליטיים',
         link: 'https://drive.google.com/open?id=1ZoSbnsrkjxQQ8ueVCuLK9wYE59E_F-06'
     },
     {
-        id: 18,
+        id: 19,
         name: 'שידורי טלוויזיה בכבלים ובלווין',
         link: 'https://drive.google.com/open?id=1mXPwYjP8JgWtrdNlt6XjKccrcTHpHZLX'
     },
     {
-        id: 19,
+        id: 20,
         name: 'נשים במקרא',
         link: 'https://drive.google.com/open?id=19RmIGOfkXwBwQ4byWhfYEJ_r_N1peaP-'
     },
     {
-        id: 20,
+        id: 21,
         name: 'כלכלה גלובלית',
         link: 'https://drive.google.com/open?id=10bAtx0RwGr1hJFwpxDmW_4OOeo6Mldj8'
     },
     {
-        id: 21,
+        id: 22,
         name: 'שואה וזיכרון',
         link: 'https://drive.google.com/open?id=1sElaKn1vLo7tia3d4TSmQqt1bfD0h3W8'
     },
