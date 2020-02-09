@@ -44,7 +44,6 @@ const DefaultButtonStyles = css`
     color: #fff;
     border: 1px solid white;
   }
-<<<<<<< HEAD:src/components/module-button/ModuleButton.styles.jsx
 `;
 
 const homePageStyles = css`
