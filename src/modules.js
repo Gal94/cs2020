@@ -117,7 +117,7 @@ export const thirdYearModules = [
     },
     {
         id: 4,
-        name: 'למידת מכונה - כרגע ריק',
+        name: 'למידת מכונה',
         link: 'https://drive.google.com/open?id=1iuAbJ4BaIaRC1n0Z-X0-Ic3HKOM-cCsI'
     },
     {
