@@ -1,37 +1,22 @@
 {
-  "name": "cs20",
-  "version": "0.1.0",
+  "name": "cs2020",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "./",
-  "dependencies": {
-    "deploy": "^1.0.3",
-    "gh-pages": "^2.1.1",
-    "node-sass": "^4.13.1",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.2.0",
-    "styled-components": "^4.4.1"
-  },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "postcss": "^8.3.5",
+    "prettier": "^2.3.2"
   }
 }
