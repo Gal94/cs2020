@@ -25,7 +25,7 @@ module.exports = {
     },
     spacing: setSpacing(),
     colors: {
-      lightWhite: '#F5F3F4',
+      lightWhite: '#F0F0F0',
       hardGray: '#B1A7A6',
       softRed: '#E5383B',
       ruby: '#A4161A',
@@ -41,7 +41,7 @@ module.exports = {
       blue: '#277DA1'
     },
     fontFamily: {
-      'cairo': ['Cairo', 'sans-serif']
+      'sans': ['Rubik', 'sans-serif']
     },
     extend: {}
   },

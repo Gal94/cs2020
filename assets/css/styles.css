@@ -1,0 +1,15 @@
+/* Extend tailwind custom classes here */
+.container {
+  max-width: 1440px;
+  @apply mx-auto;
+}
+
+.site-grid {
+  @apply grid grid-cols-4 lg:grid-cols-12;
+  @apply px-8 lg:px-0 lg:mx-11 xl:mx-16;
+  @apply gap-4 lg:gap-8 xl:gap-11;
+}
+
+.rtl {
+  direction: rtl;
+}
